@@ -2,21 +2,21 @@ $fa = 1.0;
 $fs = 0.4;
 // PCB dimensions  ****comment out before generating STL****
 // gray is main board with screw hole cut outs
-color("gray"){
-    translate([0,0,8])
-    difference(){
-        cube([103.75,70.25,1.6]);
-        translate([5.54,32.05,-1]) cylinder(h=3,r=1.3);
-        translate([37.34,29.41,-1]) cylinder(h=3,r=1.3);
-        translate([101.22,2.56,-1]) cylinder(h=3,r=1.3);
-        translate([85.55,67.03,-1]) cylinder(h=3,r=1.3);
-        translate([23.40,67.03,-1]) cylinder(h=3,r=1.3);}}
+//color("gray"){
+//    translate([0,0,8])
+//    difference(){
+//        cube([103.75,70.25,1.6]);
+//        translate([5.54,32.05,-1]) cylinder(h=3,r=1.3);
+//        translate([37.34,29.41,-1]) cylinder(h=3,r=1.3);
+//        translate([101.22,2.56,-1]) cylinder(h=3,r=1.3);
+//        translate([85.55,67.03,-1]) cylinder(h=3,r=1.3);
+//        translate([23.40,67.03,-1]) cylinder(h=3,r=1.3);}}
 // rosybrown color for surface mount parts on PCB
-color("rosybrown"){
-    // approx shape of SD card reader
-    translate([93.7,53.76,9.6]) cube([11.55,13.7,2]);
-    // approx shape of micro USB port
-    translate([99.5,40,9.6]) cube([5.75,8.38,2]);}
+//color("rosybrown"){
+//    // approx shape of SD card reader
+//    translate([93.7,53.76,9.6]) cube([11.55,13.7,2]);
+//    // approx shape of micro USB port
+//    translate([99.5,40,9.6]) cube([5.75,8.38,2]);}
 //
 //******comment out code above before generating STL********
 //
