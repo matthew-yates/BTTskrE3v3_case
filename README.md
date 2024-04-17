@@ -12,4 +12,4 @@ https://openscad.org/
 
 which can be used to modify the design as well as generate STL files to be used for 3D printing.
 
-![bottom box](https://github.com/matthew-yates/BTTskrE3v3_case/main/bottom_box/skrMiniE3V3_bottom.png?raw=true)
+![bottom box](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/bottom_box/skrMiniE3V3_bottom.png)
