@@ -11,3 +11,5 @@ case design was created in OpenSCAD:
 https://openscad.org/
 
 which can be used to modify the design as well as generate STL files to be used for 3D printing.
+
+![alt text](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/skrMiniE3V3_bottom.png?raw=true)
