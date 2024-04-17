@@ -91,4 +91,9 @@ union(){
     translate([58.82,94.25,16.6]) rotate([90,0,0]) cylinder(h=5,r=2.2);
     // Top is angled at 14.47 deegrees.  This gives y-axis length 120 mm for lid.
     translate([-8.1,-23.1,40]) rotate([14.47,0,0]) cube([116.75,120.25,70]);
-}}
+}
+// add mouse ears for printing
+translate([-10,-25,0]) cylinder(h=1,r=7.5);
+translate([107.75,-25,0]) cylinder(h=1,r=7.5);
+translate([107.75,96.25,0]) cylinder(h=1,r=7.5);
+translate([-10,96.25,0]) cylinder(h=1,r=7.5);}
