@@ -22,8 +22,8 @@ The image below is a rendering of the top box portion of the case.  It has four 
 
 The image below is a rendering of an exploded view of the completed case after removing printer supports, mounting the TFT35 E3 V3 board to the top portion of the case, and mounting the SKR Mini E3 V3 board to the bottome portion of the case.  The case is colored blue and the Bigtreetech components are colored gray.
 
-![complete case exploded](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/completeCaseImages/skrMiniE3V3_complete1.png)
+![complete case exploded](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/completedCaseImages/skrMiniE3V3_complete1.png)
 
 The image below is a rendering of the completed case after assembly.  The top part of the case is mounted to the bottom part using M3 screws 10mm in length.
 
-![complete case assembled](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/completeCaseImages/skrMiniE3V3_complete2.png)
+![complete case assembled](https://github.com/matthew-yates/BTTskrE3v3_case/blob/main/completedCaseImages/skrMiniE3V3_complete2.png)
